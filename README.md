@@ -1,1 +1,1 @@
-# psychic-rotary-phone
+# psychic
